@@ -1,0 +1,3 @@
+add  - subir las cosas al git
+commit - para especificar el cambio realizado
+status - para ver como estas las cosas pendientes , las nueva 
